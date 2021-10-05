@@ -32,15 +32,15 @@ Get STRING_NAME from here:
 - `/end` - stop music play
 ## Our Telegram Channel and Group
 
-* [Warbotz](https://telegram.dog/thewarbotz)
+* [Chatting Group](https://telegram.dog/Worldchattinggroupforall)
 
-* [WarBotzChat](https://telegram.dog/warbotzsupport)
+* [Rishabh](https://telegram.dog/RishabhHelpGroup)
 
 ## Credits, and Thanks to 
 
-*   [Abhishek](https://telegram.dog/xabhisheksingh)
+*   [Rishabh](https://telegram.dog/Rishu_05)
 
-*. [Lucifer](https://t.me/lmlucifer)
+*. [Rishabh](https://t.me/Rishabhbhan)
 
 
 
